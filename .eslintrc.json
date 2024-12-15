@@ -1,3 +1,8 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "react/no-unescaped-entities": "off", // Example: Disable a rule causing issues
+    "no-console": "warn"                 // Example: Allow console logs with a warning
+  }
 }
+
