@@ -21,7 +21,7 @@ const Hero = () => {
           </div>
           {/* right side */}
           <div className='m-auto'>
-            <Image src={"/illustration.png"} width={272} height={283} alt=''></Image>
+            <Image src={"/Illustration.png"} width={272} height={283} alt=''></Image>
           </div>
         </div>
       </div>
